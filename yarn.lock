@@ -7431,6 +7431,11 @@ reduce-css-calc@^2.0.0:
     css-unit-converter "^1.1.1"
     postcss-value-parser "^3.3.0"
 
+redux-promise-middleware@^5.1.1:
+  version "5.1.1"
+  resolved "https://registry.yarnpkg.com/redux-promise-middleware/-/redux-promise-middleware-5.1.1.tgz#37689339a58a33d1fda675ed1ba2053a2d196b8d"
+  integrity sha512-YC1tiheU28Hgmtu5HHMLiuveLgjL1aCJWsSnwquMiZBcj5i/J9qVLt6vgOnb0Gz37y4deJ/rjiNt7l6Dh+Z8lA==
+
 redux-seamless-immutable@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/redux-seamless-immutable/-/redux-seamless-immutable-0.4.0.tgz#b50f8680ecc5ef04021551267f78fa1ffd3cf985"
